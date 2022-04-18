@@ -1,0 +1,47 @@
+.container-fluid{
+    background-color:black;
+    height: 1000px;
+}
+
+.form{
+    background-color: white;
+    height: 950px;
+    position: absolute;
+    left: 70px;
+    top: 50px;
+    /* box-shadow:  17px 17px 30px lightseagreen,  -15px -15px 30px lightcoral;  */
+    border-radius: 400%;
+}
+.head{   
+    color:black;
+    background-color: cornflowerblue;
+    height: 100px;
+    box-shadow:  17px 17px 30px lightseagreen,  -15px -15px 30px lightcoral; 
+    border-radius: 60%;
+}
+.hr{
+    height: 3px;
+    background-color: lightcoral;
+    box-shadow:  17px 17px 30px lightseagreen,  -15px -15px 30px lightcoral; 
+    border-radius: 60%;
+}
+
+.main{
+    height: 130px;
+    width: 100%;
+}
+.blue{
+    background-color: blue;
+}
+.name{
+    position: relative;
+    top: 20px;
+    box-shadow:  17px 17px 30px lightseagreen,  -15px -15px 30px #ffff00; 
+    border-radius: 400%;
+    height: 70px;
+}
+.button{
+    height: 40px;
+    width: 150px;
+    background-color: lightcoral;
+}
